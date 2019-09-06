@@ -1,0 +1,6 @@
+C:\Users\proal\source\repos\Task\Task\Task\bin\Debug\Task.dll
+C:\Users\proal\source\repos\Task\Task\Task\bin\Debug\Task.pdb
+C:\Users\proal\source\repos\Task\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\proal\source\repos\Task\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\proal\source\repos\Task\Task\Task\obj\Debug\Task.dll
+C:\Users\proal\source\repos\Task\Task\Task\obj\Debug\Task.pdb
